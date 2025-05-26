@@ -1,0 +1,6 @@
+name = "cfpagesbasic1"
+compatibility_date = "2025-05-25"
+
+[build]
+command = ""
+publish = "."
